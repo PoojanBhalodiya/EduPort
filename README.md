@@ -11,10 +11,10 @@
 
 ## Scripts :
 
-Start Project : `npm run dev`
-Create Build : `npm run build`
-Lint Project : `npm run lint`
-Preview Build : `npm run preview`
+- Start Project : `npm run dev`
+- Create Build : `npm run build`
+- Lint Project : `npm run lint`
+- Preview Build : `npm run preview`
 
 ## What's Inside :
 
