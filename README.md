@@ -2,7 +2,7 @@
 
 # Frontend :
 
-# Stack Info. :
+## Stack Info. :
 
 | Stack         | Tool             | Version |
 | ------------- | ---------------- | ------- |
@@ -26,7 +26,7 @@
 
 # Backend :
 
-# Stack Info. :
+## Stack Info. :
 
 | Stack               | Tool       | Version |
 | ------------------- | ---------- | ------- |
