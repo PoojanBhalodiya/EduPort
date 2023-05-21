@@ -1,6 +1,8 @@
 # Education Management Portal
 
-## Frontend Info.:
+# Frontend :
+
+# Stack Info. :
 
 | Stack         | Tool             | Version |
 | ------------- | ---------------- | ------- |
@@ -21,3 +23,21 @@
 - project created using vite building tool ,
 - react script init. with version 18
 - TailwindCSS, PostCSS, Autoprefixer used for Design.
+
+# Backend :
+
+# Stack Info. :
+
+| Stack               | Tool       | Version |
+| ------------------- | ---------- | ------- |
+| runtime environment | Node.js    | 20.2.0  |
+| framework           | Express.js | 4.18.2  |
+| DataBase            | MongoDB    | 5.5     |
+
+## Scripts :
+
+- Start Project : `npm run start`
+
+## What's Inside :
+
+- need to setup
